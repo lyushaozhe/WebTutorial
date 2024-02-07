@@ -1,0 +1,7 @@
+{
+    "name": "englishlearning",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
